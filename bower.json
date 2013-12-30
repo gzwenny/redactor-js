@@ -1,0 +1,8 @@
+{
+	"name":"redactor",
+	"version":"8.2.2",
+	"main":[
+		"redactor/redactor.js",
+		"redactor/redactor.css"
+	]
+}
